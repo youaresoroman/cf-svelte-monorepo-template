@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write '**/*.{js,css,json,md}'",
-    "dev": "cfw parvati dev",
-    "deploy": "cfw parvati publish"
+    "dev": "cfw example dev",
+    "deploy": "cfw example publish"
   },
   "author": "Roman Yankowski",
   "license": "MIT",

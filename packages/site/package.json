@@ -7,7 +7,7 @@
     "dev": "rollup -c -w",
     "start": "sirv public --single",
     "validate": "svelte-check",
-    "deploy": "npm run build && cfw parvati publish"
+    "deploy": "npm run build && cfw example publish"
   },
   "author": "Roman Yankowski",
   "license": "MIT",
