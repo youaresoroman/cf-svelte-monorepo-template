@@ -1,9 +1,11 @@
+<script>
+  export let data;
+</script>
+
 <div class="text">
-  MAIN PAGE
+  {data}
 
-
-  <a href="/meta/test">test</a>
-  <a href="/subpage">test</a>
+  <a href="/">Back</a>
 </div>
 
 <style>
